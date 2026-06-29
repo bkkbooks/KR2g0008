@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR2g0008/v1
+canonical_location: https://kanripo.org/bkk/KR2g0008/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 杜工部詩年譜
+  date: '2015-08-24 22:34:19.063477'
+  source:
+    repository: kanripo
+    path: KR2g0008
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2g0008_000.yaml, hash: 'sha256:540d0aa3cb480cbf23b17943455b39ea3f6c10bdb4eb056bfc6bed8938ef154b'}
+  - {seq: 1, filename: KR2g0008_001.yaml, hash: 'sha256:4c0f7bed6979b74de7992f2d69002cf997578667504031fb3c2970f05b22eee4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2g0008_000.markers.yaml, hash: 'sha256:4a7cdef92c31fbfed43c36d7c2a6eeedd12f3c3e87ae38f93b9c4c8a20ba756c'}
+  - {seq: 1, role: markers, filename: assets/KR2g0008_001.markers.yaml, hash: 'sha256:2dea02354dfe0fa126f680c7dfb44e8c75d5e6b6c6f1987f04651cd047c816c7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2g0008_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 471
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0008_WYG_000-3a
+    span:
+    - body
+    - 471
+    - 843
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2g0008_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 6466
+  label: 杜工部詩年譜
+  type: section
+  level: 1
+hash: sha256:e1094e4f8597fdd1285bf2494b805347415e2814210c671b0a080ce4b21b0f71
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
