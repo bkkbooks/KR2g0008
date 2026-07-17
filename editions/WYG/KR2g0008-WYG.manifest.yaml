@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR2g0008_000-WYG.yaml, hash: 'sha256:cab4ab37eb9fce465abf80e3ded863e9efc2678dfef0273e4d0f09f8ccd67670'}
   - {seq: 1, filename: KR2g0008_001-WYG.yaml, hash: 'sha256:6bd835cbc17ea5346dac7427fe84add8e10aa61f6d2f424bce978be70682460d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0008_000-WYG.markers.yaml, hash: 'sha256:bfa9b6f6dc9f5ab93cd3a1e9ee4f798b5f9d8dd32d5b808253768e04ff9f5ae2'}
-  - {seq: 1, role: markers, filename: assets/KR2g0008_001-WYG.markers.yaml, hash: 'sha256:5f5d984050b7f261f4cf98147d2022fad65dead418239679270bfd5ab35a8e3c'}
+  - {seq: 0, role: markers, filename: assets/KR2g0008_000-WYG.markers.yaml, hash: 'sha256:cb23f60b308a2b655946199bec84f2b3743262b5b4dca5d103f256d92e1e3f3b'}
+  - {seq: 1, role: markers, filename: assets/KR2g0008_001-WYG.markers.yaml, hash: 'sha256:02940d8349bb63d7c452231bcdf86312f2dcc083b89bba0723f0519b9a8a1e7f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -53,4 +53,4 @@ table_of_contents:
   label: 杜工部詩年譜
   type: section
   level: 1
-hash: sha256:efa9cba92194ddc581435649984dcaaba62b19350bb31d3a1e883f0eaaaaf7be
+hash: sha256:a223ac8bc53cdf8e0f6643d2620cb659959e4f3e43d7c92d5144415c43dccc1f

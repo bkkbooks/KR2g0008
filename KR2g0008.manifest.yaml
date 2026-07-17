@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2g0008_000.yaml, hash: 'sha256:abecb311c045baed14856ff0d41127413e564dfd81b7e378705d3579a3392d54'}
   - {seq: 1, filename: KR2g0008_001.yaml, hash: 'sha256:70601f2d93c6ca76eb99d58c52c549cc1de9766a9e9c5002e03492302a158917'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0008_000.markers.yaml, hash: 'sha256:7024e08763838c681d0cdd4cd242d66544c40b2671567b8559e43471ce9e6511'}
-  - {seq: 1, role: markers, filename: assets/KR2g0008_001.markers.yaml, hash: 'sha256:ab9780860d31f46aa824e38c6f524cf31a8ab1ae0814bca68264d49453d37a0a'}
+  - {seq: 0, role: markers, filename: assets/KR2g0008_000.markers.yaml, hash: 'sha256:ef1605f6bcc062f995b89bdbef284924f49be02e260efb572d5c6558e218411c'}
+  - {seq: 1, role: markers, filename: assets/KR2g0008_001.markers.yaml, hash: 'sha256:6104cbc3c91134cdca801e442277e11ffed51691acf64f34f3aebf20a6e038c1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,7 @@ table_of_contents:
   label: 杜工部詩年譜
   type: section
   level: 1
-hash: sha256:3167573344bd185c169b71c5b56d85b50b8db511ee19083de2849975a8266352
+hash: sha256:2f126785b17b90ca989b17b73fbb8aa755dfd5f388e1c84e3910862d29346e38
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
